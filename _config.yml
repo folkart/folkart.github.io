@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://folkart.github.io
+title: Folk Art
+email: myhubgold@gmail.com
+author: folkart
+description: Folk Art
+paginate: 10
+google_analytics: 
